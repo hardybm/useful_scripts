@@ -1,2 +1,2 @@
 # useful_scripts
-A collectionof useful scripts I've made to do things
+A collection of useful scripts I've made to do things
