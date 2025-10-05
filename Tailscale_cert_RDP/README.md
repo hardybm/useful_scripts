@@ -39,10 +39,6 @@ choco install openssl.light
 ## Installation
 
 1. Clone this repository or download the script:
-```powershell
-git clone https://github.com/yourusername/tailscale-rds-cert.git
-cd tailscale-rds-cert
-```
 
 2. Ensure you can run PowerShell scripts:
 ```powershell
